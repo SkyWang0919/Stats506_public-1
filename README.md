@@ -2,8 +2,8 @@
 
 ## About 
 
-#### course homepage: http://jbhender.github.io/Stats506/F20
-#### git repository: https://github.com/rurithu/Stats506_public
+#### [Course Homepage] http://jbhender.github.io/Stats506/F20
+#### [My Repository] https://github.com/rurithu/Stats506_public
 
 ## Activities 
 Group Members: 
