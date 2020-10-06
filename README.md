@@ -6,7 +6,7 @@
 #### [My Repository](https://github.com/rurithu/Stats506_public)
 
 ## Activities 
-Group Members: 
+**Group Members:**
 
 **Weeks 1-3**
 
