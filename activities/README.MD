@@ -21,7 +21,7 @@
   + write and interpret dplyr pipes to explore _Orange_ dataset 
 ##### Part 2
 * Use ggplot2 package to visualize 2015 RECS data 
-  + [w4_p2_RECS2015_internet.csv](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)
+  + Dataset: [w4_p2_RECS2015_internet.csv](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)
   + Plot showing the proportion of homes with internet access in different division of homes 
   ![q1](week4/plot1w4.png)
   + Plot showing the difference in proportions from the previous plot 
