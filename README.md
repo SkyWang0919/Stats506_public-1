@@ -8,9 +8,18 @@
 ## Activities 
 Group Members: 
 
-Rithu Uppalapati 
+**Weeks 1-3**
 
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
+
+**Weeks 4-6**
+
+Yawen Hu - https://github.com/yawenh/Stats506_public
+
+Yanyu Long - https://github.com/longyyu/Stats506_public
+
+Chen Shang 
+
 #### Week 1 
 * Part 1 - Prepare your workspace 
   + set up terminal to execute template 
