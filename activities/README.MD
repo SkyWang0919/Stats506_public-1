@@ -18,7 +18,7 @@
 #### Week 4 
 ##### Part 1
 * Work with dplyr pipes 
-  + write and interpret dplyr pipes to explore _Orange_ dataset 
+  + write and interpret dplyr pipes to explore `r Dataset::Orange ` 
 ##### Part 2
 * Use ggplot2 package to visualize 2015 RECS data 
   + Dataset: [w4_p2_RECS2015_internet.csv](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)
