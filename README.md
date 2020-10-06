@@ -27,3 +27,8 @@ Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
   + update ReadMe with weeks 1-3 activities 
 * Part 2 - Learn about branches in git 
   + create a branch and then modify it with different git commands
+#### Week 4 
+##### Part 1
+* Work with dplyr pipes 
+  + write and interpret dplyr pipes to explore _Orange_ dataset 
+##### Part 2
