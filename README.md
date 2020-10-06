@@ -8,11 +8,11 @@
 ## Activities 
 Group Members: 
 
-*Weeks 1-3*
+**Weeks 1-3**
 
 Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
 
-*Weeks 4-6*
+**Weeks 4-6**
 
 Yawen Hu - https://github.com/yawenh/Stats506_public
 
@@ -42,8 +42,7 @@ Chen Shang
   + write and interpret dplyr pipes to explore _Orange_ dataset 
 ##### Part 2
 * Use ggplot2 package to visualize 2015 RECS data 
-
-Dataset: w4_p2_RECS2015_internet.csv ([link](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)) 
+  + Dataset: w4_p2_RECS2015_internet.csv ([link](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)) 
   + Plot showing the proportion of homes with internet access in different division of homes 
   ![q1](activities/week4/plot1w4.png)
   + Plot showing the difference in proportions from the previous plot 
