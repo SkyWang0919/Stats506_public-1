@@ -41,3 +41,8 @@ Chen Shang
 * Work with dplyr pipes 
   + write and interpret dplyr pipes to explore _Orange_ dataset 
 ##### Part 2
+* Use ggplot2 package to visualize data 
+  + Plot 1 
+  ![q1](activities/week4/plot1w4.png)
+  + Plot 2 
+  
