@@ -2,21 +2,21 @@
 
 ## About 
 
-#### [Course Homepage] http://jbhender.github.io/Stats506/F20
-#### [My Repository] https://github.com/rurithu/Stats506_public
+#### [Course Homepage](http://jbhender.github.io/Stats506/F20)
+#### [My Repository](https://github.com/rurithu/Stats506_public)
 
 ## Activities 
 Group Members: 
 
 **Weeks 1-3**
 
-Tianshi Wang - https://github.com/SkyWang0919/Stats506_public
+[Tianshi Wang](https://github.com/SkyWang0919/Stats506_public)
 
 **Weeks 4-6**
 
-Yawen Hu - https://github.com/yawenh/Stats506_public
+[Yawen Hu](https://github.com/yawenh/Stats506_public)
 
-Yanyu Long - https://github.com/longyyu/Stats506_public
+[Yanyu Long](https://github.com/longyyu/Stats506_public)
 
 Chen Shang 
 
