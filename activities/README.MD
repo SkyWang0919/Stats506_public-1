@@ -23,6 +23,6 @@
 * Use ggplot2 package to visualize 2015 RECS data 
   + Dataset: w4_p2_RECS2015_internet.csv ([link](https://github.com/jbhender/Stats506_F20/blob/master/activities/week4/w4_p2_RECS2015_internet.csv)) 
   + Plot showing the proportion of homes with internet access in different division of homes 
-  ![q1](activities/week4/plot1w4.png)
+  ![q1](week4/plot1w4.png)
   + Plot showing the difference in proportions from the previous plot 
-  ![q2](activities/week4/plot2w4.png)  
+  ![q2](week4/plot2w4.png)  
