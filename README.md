@@ -42,7 +42,8 @@ Chen Shang
   + write and interpret dplyr pipes to explore _Orange_ dataset 
 ##### Part 2
 * Use ggplot2 package to visualize data 
-  + Plot 1 
+  + Plot showing the proportion of homes with internet access in different division of homes 
   ![q1](activities/week4/plot1w4.png)
-  + Plot 2 
+  + Plot showing the difference in proportions from the previous plot 
+  ![q2](activities/week4/plot2w4.png)  
   
