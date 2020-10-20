@@ -26,3 +26,5 @@
   ![q1](week4/plot1w4.png)
   + Plot showing the difference in proportions from the previous plot 
   ![q2](week4/plot2w4.png)  
+#### Week 7 
+* create dplyr functions to group by a variable and calculate weighted mean of other variables
