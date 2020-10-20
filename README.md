@@ -31,5 +31,7 @@ Chen Shang
   + [week4pt2.Rmd](https://github.com/rurithu/Stats506_public/blob/master/activities/week4/week4pt2.Rmd) - Part 2 activity visualizing 2015 RECS data using ggplot2 package
   + [plot1w4.png](https://github.com/rurithu/Stats506_public/blob/master/activities/week4/plot1w4.png) - plot 1 of Part 2 activity 
   + [plot2w4.png](https://github.com/rurithu/Stats506_public/blob/master/activities/week4/plot2w4.png) - plot 2 of Part 2 activity
+* Week 7 - dplyr functions 
+  + [week7.R](https://github.com/rurithu/Stats506_public/tree/master/activities/week7/week7.R)
 
   
