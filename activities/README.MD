@@ -27,4 +27,6 @@
   + Plot showing the difference in proportions from the previous plot 
   ![q2](week4/plot2w4.png)  
 #### Week 7 
-* create dplyr functions to group by a variable and calculate weighted mean of other variables
+* Create dplyr functions 
+  + Create function to group variables in dataframe
+  + Create function to calculate weighted mean of variables
